@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fraud Call Detection App</string>
+    <string name="accessibility_service_description">This service monitors phone call events to detect potential scams.</string>
+</resources>
