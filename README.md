@@ -15,5 +15,3 @@ Kotlin · Android · Azure Cognitive Services · ML Models
 ## Status
 🔨 Prototype in progress | Core fraud-detection pipeline under development  
 
----
-👨‍💻 Built for *Smart India Hackathon 2025*  
